@@ -7,4 +7,4 @@ Software Developer
 
 
 
-. Check out my {website}(https://porfoliocom.netlify.app/) to learn more about me.
+. Check out my [website](https://porfoliocom.netlify.app/) to learn more about me.
